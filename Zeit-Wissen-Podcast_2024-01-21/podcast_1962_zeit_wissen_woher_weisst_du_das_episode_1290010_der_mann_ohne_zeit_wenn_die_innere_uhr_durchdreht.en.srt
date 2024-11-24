@@ -1,1336 +1,1339 @@
 ﻿1
 00:00:00,000 --> 00:00:04,320
-[Stephen Larroque]: So, something I say sometimes is that I'm living outside of time.
+Stephen Larroque: So, something I say
+sometimes is that I'm living outside of time.
 
 2
 00:00:04,560 --> 00:00:06,820
-This is Stephen Larroque.
+Hella Kemper: This is Stephen Larroque.
 
 3
 00:00:07,220 --> 00:00:13,720
-He says of himself that he lives outside of
-time, which sounds kind of mysterious, Nina.
+HK: He says of himself that he lives outside
+of time, which sounds kind of mysterious, Nina.
 
 4
 00:00:14,260 --> 00:00:18,880
-[Nina Lennartz] Yes, mysterious,
+Nina Lennartz: Yes, mysterious,
 but also complicated and painful.
 
 5
 00:00:19,260 --> 00:00:28,640
-Outside of school I had no activities, because it was very
-straining to go to school all the time at a fixed time.
+SL: Outside of school I had no activities, because it was
+very stressful to go to school all the time at a fixed time.
 
 6
 00:00:29,240 --> 00:00:34,840
-Larroque tells us here how exhausting it was for
-him to go to school at the same time every day.
+NL: Larroque is telling us here how exhausting it was
+for him to go to school at the same time every day.
 
 7
 00:00:35,100 --> 00:00:36,720
-It robbed him of
-all his strength.
+NL: It took all his strength.
 
 8
 00:00:37,220 --> 00:00:43,100
-[SL]: Because of that, I used all my
-energy and health to just attend school.
+SL: Because of that, I used all my
+energy and health to just go to school.
 
 9
 00:00:43,660 --> 00:00:46,100
-And outside of
+SL: And outside of
 school there's nothing.
 
 10
 00:00:46,880 --> 00:00:48,340
-I had no life beyond.
+SL: I had no life beyond.
 
 11
 00:00:48,540 --> 00:00:57,180
-[NL]: That was because his circadian rhythm, his inner
-sleep-wake rhythm, wasn't in sync with the rest of the world.
+NL: That was because his circadian rhythm, his inner
+sleep-wake rhythm, was not in sync with the rest of the world.
 
 12
 00:00:57,580 --> 00:01:03,180
-[NL]: As a kid, he was so tired after school, he
+NL: As a kid, he was so tired after school, he
 would fall asleep right at home, no matter where.
 
 13
 00:01:03,780 --> 00:01:07,360
-And he says he practically
+NL: And he says he practically
 didn't have a life outside of school.
 
 14
 00:01:08,660 --> 00:01:13,920
-[HK]: What does that mean that his inner rhythm
+HK: What does that mean that his inner rhythm
 is not synchronous with the rest of the world?
 
 15
 00:01:14,520 --> 00:01:19,980
-Our sleep-wake behaviors are driven
-by this circadian rhythm within us.
+NL: Our sleep-wake behaviors are
+driven by this circadian rhythm within us.
 
 16
 00:01:20,780 --> 00:01:27,200
-[NL]: Circadian, because the rhythm takes about 24 hours,
+NL: Circadian, because the rhythm takes about 24 hours,
 sometimes a little longer, sometimes a little shorter.
 
 17
 00:01:27,800 --> 00:01:30,780
-[NL]: The average is about 24.2.
+NL: The average is about 24.2.
 
 18
 00:01:31,100 --> 00:01:36,960
-[HK]: But our world is timed to an
+HK: But our world is being timed to an
 exact 24-hour rhythm, not a rough one.
 
 19
 00:01:37,700 --> 00:01:38,020
-[NL] That's right.
+NL: That's right.
 
 20
 00:01:38,280 --> 00:01:48,400
-[NL]: And this is possible because external factors like daylight, but also
-diet and exercise, adjust our internal clocks to 24 hours, so to speak.
+NL: And this is possible because external factors like daylight, but also
+diet and exercise, are adjusting our internal clocks to 24 hours, so to speak.
 
 21
 00:01:49,260 --> 00:01:57,020
-[NL]: Light is the crucial factor in this, because it affects our most
+NL: Light is the decisive factor in this, because it affects our most
 important internal clock, the subrachiasmatic core in the hypothalamus.
 
 22
 00:01:57,480 --> 00:02:02,400
-[NL]: When light hits our retina, signals
+NL: When light hits our retina, signals
 from there also reach this very core.
 
 23
 00:02:03,000 --> 00:02:08,080
-[NL]: And that then leads to the production
-of the sleep hormone melatonin being stopped.
+NL: And that then leads to the production of
+the sleep hormone melatonin being stopped.
 
 24
 00:02:08,240 --> 00:02:09,240
-So we're going to wake up.
+NL: So we're going to wake up.
 
 25
 00:02:10,020 --> 00:02:11,540
-[NL]: But there's a problem now.
+NL: But there's a problem now.
 
 26
 00:02:11,880 --> 00:02:15,080
-[NL]: This synchronization
+NL: This synchronization
 doesn't work for all people.
 
 27
 00:02:15,700 --> 00:02:17,500
-They live in their own time.
+NL: They live in their own time.
 
 28
 00:02:18,180 --> 00:02:30,700
-[HK]: Good morning or good evening, depending on where
+HK: Good morning or good evening, depending on where
 your internal clock is or where you are in the world.
 
 29
 00:02:31,260 --> 00:02:36,320
-[HK]: My name is Hella Kemper and I'm going to walk you
+HK: My name is Hella Kemper and I'm going to walk you
 through today's episode of the Know-it-Time podcast.
 
 30
 00:02:36,720 --> 00:02:39,480
-[HK]: We want to try to
+HK: We want to try to
 understand sleep better.
 
 31
 00:02:39,740 --> 00:02:42,640
-[HK]: We meet people whose
+HK: We meet people whose
 inner clock ticks differently.
 
 32
 00:02:42,640 --> 00:02:47,480
-Our author Nina Lennertz
+HK: Our author Nina Lennertz
 spoke to a sleep specialist.
 
 33
 00:02:47,640 --> 00:02:57,560
-[HK]: She wanted to know when to stop talking
-about sleep deprivation, but what to do about it.
+HK: She wanted to know when you stop talking about sleep deprivation,
+when it's a real sleep disorder, and what you can do about it.
 
 34
 00:02:58,160 --> 00:03:05,460
-And because many of us are up at night, you get the
-best sleeping tips from our author Tobias Hürther.
+HK: And because many of us are up at night, you get
+the best sleeping tips from our author Tobias Hürther.
 
 35
 00:03:05,980 --> 00:03:10,520
-He's a philosopher, and I don't think he's
-completely out of the loop with the night watch.
+HK: He's a philosopher, and watched nights
+are not entirely foreign to him, I think.
 
 36
 00:03:10,520 --> 00:03:16,060
-And Christoph Drösser asks in his Impossible
-column why some of us turn to sleep.
+HK: And Christoph Drösser asks in his
+Impossible column why some of us turn to sleep.
 
 37
 00:03:20,980 --> 00:03:32,680
-[HK]: So Nina, the French neuroscientist Stéphane Larroque is having
+HK: So Nina, the French neuroscientist Stéphane Larroque, is having
 trouble adapting his individual day-night rhythm to our 24-hour day.
 
 38
 00:03:33,160 --> 00:03:35,320
-Sounds like a busy life.
+HK: Sounds like
+a very busy life.
 
 39
 00:03:35,880 --> 00:03:37,640
-[NL]: Yeah, he's 24 now.
+NL: Yeah, he's 24 now.
 
 40
 00:03:37,640 --> 00:03:44,160
-[NL]: 24, this is a disorder, this circadian
+NL: Non-24 is a disorder, this circadian
 rhythm that's very common in blind people.
 
 41
 00:03:44,500 --> 00:03:45,800
-But Larroque is not blind.
+NL: But Larroque is not blind.
 
 42
 00:03:46,260 --> 00:03:48,620
-No, no, he can see
-without restrictions.
+NL: No, no, he can
+see without restrictions.
 
 43
 00:03:49,220 --> 00:03:51,460
-[NL]: But that's one
+NL: But that's one
 of the rare cases.
 
 44
 00:03:51,700 --> 00:03:54,820
-[NL]: Now, 24 is much
-more common in blind people.
+NL: Non-24 is much more
+common in blind people.
 
 45
 00:03:55,640 --> 00:04:04,020
-[NL]: According to a 2016 article, up to 70 percent of
+NL: According to a 2016 article, up to 70 percent of
 blind people who can't see light at all suffer from it.
 
 46
 00:04:04,380 --> 00:04:11,580
-[NL]: The adjustment of their internal clocks by the light
+NL: The adjustment of their internal clocks by the light
 falls off, meaning their internal rhythm runs independently.
 
 47
 00:04:12,420 --> 00:04:22,300
-[NL]: If someone has a circadian rhythm of 24.5 hours, for
-example, their sleep and wake times shift by 30 minutes every day.
+NL: If someone has a circadian rhythm of 24.5 hours, for example,
+their sleep and wake times shift by 30 minutes every day.
 
 48
 00:04:23,200 --> 00:04:30,420
-[HK]: So, again, the sleep-wake rhythm of these people
-runs independently of the outer day-night rhythm.
+HK: So, in summary, the sleep-wake rhythm of these
+people is independent of the outer day-night rhythm.
 
 49
 00:04:30,800 --> 00:04:32,620
-[HK] Sometimes it fits, but
-most of the time it doesn't.
+HK: Sometimes it's okay,
+but most of the time it's not.
 
 50
 00:04:32,620 --> 00:04:46,780
-[NL]: Exactly, so in the example of a 24.5-hour rhythm, it takes 48 days for the
+NL: Exactly, so in the example of a 24.5-hour rhythm, it takes 48 days for the
 inner rhythm, practically the inner night and the inner day to match the outer.
 
 51
 00:04:47,160 --> 00:04:50,980
-And then it starts all
+NL: And then it starts all
 over again and moves on.
 
 52
 00:04:51,460 --> 00:04:59,440
-[HK]: Sounds exhausting to the organism, but let's
+HK: Sounds exhausting to the organism, but let's
 get back to the cause of this rhythm disorder.
 
 53
 00:05:00,240 --> 00:05:06,640
-[HK]: Non24 is common in blind people, but
-Stephen LaRock, as we just said, can see.
+HK: Non24 is common in blind people, but
+Stephen Larroque, as we just said, can see.
 
 54
 00:05:06,960 --> 00:05:11,100
-[NL]: Yeah, and for a long time, he
+NL: Yeah, and for a long time, he
 didn't know what was going on with him.
 
 55
 00:05:11,580 --> 00:05:18,260
-[NL]: Non24 is sometimes not even diagnosed in
+NL: Non24 is sometimes not even diagnosed in
 blind people, or at least not for a long time.
 
 56
 00:05:19,060 --> 00:05:22,620
-[NL] Stephen LaRock was
+NL: Stephen Larroque was
 diagnosed in his mid-20s.
 
 57
 00:05:23,220 --> 00:05:28,720
-[NL]: Why exactly NON24 is now also present
-in people who see, it's still unclear.
+NL: Why exactly NON24 is now also
+present in people who see is still unclear.
 
 58
 00:05:29,220 --> 00:05:32,980
-[NL]: LaRock himself
+NL: Larroque himself
 thinks it's genetic.
 
 59
 00:05:33,180 --> 00:05:38,320
-[NL]: His father and grandmother were said to have
-had a very similar sleepwalking behavior to him.
+NL: His father and grandmother were said to have
+had a very similar sleep-walking behavior to him.
 
 60
 00:05:38,320 --> 00:06:04,400
-His friends even joked about his father being a vampire because
-he slept behind a trained jealousy so many times during the day.
+SL: His friends even joked about his father being a vampire
+because he slept behind closed curtains so often during the day.
 
 61
 00:06:04,920 --> 00:06:07,140
-[NL] For a long time, LaRock's
+NL: For a long time, Larroque's
 father was unemployed.
 
 62
 00:06:07,540 --> 00:06:11,760
-[NL]: That's what happens to a lot of
+NL: That's what happens to a lot of
 people in the NON24 community, he says.
 
 63
 00:06:12,260 --> 00:06:23,140
-[NL]: After all, it's not easy right now to find a job that fits a shifted sleep pattern
+NL: After all, it's not easy right now to find a job that fits a shifted sleep pattern
 or to keep a job that forces you to live permanently against your own internal clock.
 
 64
 00:06:23,560 --> 00:06:26,720
-[HK]: And how's that going
-with Stephen LaRock himself?
+HK: And how is that going
+with Stephen Larroque himself?
 
 65
 00:06:27,120 --> 00:06:29,560
-Did his life get easier
-after the diagnosis?
+HK: Did his life get
+easier after the diagnosis?
 
 66
 00:06:29,800 --> 00:06:40,020
-[NL]: So for the first time, he actually went on in the big picture as before,
+NL: So for the first time, he actually went on in the big picture as before,
 just trying to adjust to the rhythm of his environment, against his inner clock.
 
 67
 00:06:48,740 --> 00:06:56,160
-[NL]: That meant for him that he couldn't make reliable
+NL: That meant for him that he couldn't make reliable
 plans because he never knew if he might be asleep or tired.
 
 68
 00:06:56,640 --> 00:06:58,000
-[NL]: That was very chaotic.
+NL: That was very chaotic.
 
 69
 00:06:58,000 --> 00:07:06,500
-[SL]: There were a lot of problems, both
+SL: There were a lot of problems, both
 with my girlfriend and with the university.
 
 70
 00:07:06,940 --> 00:07:14,480
-[SL]: When I came to the reading
+SL: When I came to the reading
 room, I didn't have to sleep very often.
 
 71
 00:07:15,680 --> 00:07:16,540
-I didn't have to sleep.
+SL: I didn't have to sleep.
 
 72
 00:07:17,060 --> 00:07:18,400
-I was sleeping.
+SL: I was not sleeping.
 
 73
 00:07:19,040 --> 00:07:23,200
-[SL]: Sometimes I slept
-when I was reading.
+SL: Sometimes I would
+sleep when I was reading.
 
 74
 00:07:23,500 --> 00:07:28,780
-It was hard for his relationship with his
-then girlfriend, who he's married to now.
+NL: It was hard for his relationship with
+his then girlfriend, who he's married to now.
 
 75
 00:07:29,380 --> 00:07:32,580
-But there were problems with
+NL: But there were problems with
 sleep disturbances in his studies, too.
 
 76
 00:07:33,080 --> 00:07:37,100
-[NL]: Sometimes he went to
+NL: Sometimes he went to
 class without sleeping at all.
 
 77
 00:07:37,480 --> 00:07:40,940
-Or sometimes he slept while
+NL: Or sometimes he slept while
 he was supposed to be in college.
 
 78
 00:07:41,960 --> 00:07:46,540
-[SL]: I had a network of
+SL: I had a network of
 friends who sent me notes.
 
 79
 00:07:48,480 --> 00:07:51,900
-[SL]: I had to find strategies
+SL: I had to find strategies
 to overcome these problems.
 
 80
 00:07:52,260 --> 00:07:57,280
-So LaRock had to think of
+NL: So Larroque had to think of
 strategies to live with his shifting pace.
 
 81
 00:07:57,680 --> 00:07:58,340
-He had, for example,
+NL: He had, for example,
 
 82
 00:07:58,480 --> 00:08:01,860
-[NL]: a network of friends
+NL: a network of friends
 who wrote for him in college.
 
 83
 00:08:02,080 --> 00:08:03,160
-It's very complicated.
+NL: Very difficult.
 
 84
 00:08:03,500 --> 00:08:04,540
-[NL] Yeah, that was it.
+NL: Yeah, that was it.
 
 85
 00:08:04,760 --> 00:08:09,260
-And it was also very exhausting,
-so LaRock had heart problems.
+NL: And it was also very exhausting,
+so Larroque had heart problems.
 
 86
 00:08:09,780 --> 00:08:15,380
-[NL]: He says his heart problems only got better when he
+NL: He says his heart problems only got better when he
 had nights where he could sleep well and for a long time.
 
 87
 00:08:15,800 --> 00:08:20,840
-[NL]: So his rhythm was quite in line
+NL: So his rhythm was quite in line
 with the day-night rhythm of all of us.
 
 88
 00:08:21,500 --> 00:08:32,300
-[NL]: So LaRock started trying to better control his sleep and
-wake times and adjust to our normal 24-hour rhythm in quotes.
+NL: So Larroque started trying to better control his sleeping and
+waking hours and adjust to our normal 24-hour rhythm in quotes.
 
 89
 00:08:32,620 --> 00:08:35,520
-[HK]: But how can you manage
-to adjust your biological rhythm?
+HK: But how can you do that,
+adjust your biological rhythm?
 
 90
 00:08:36,000 --> 00:08:43,040
-[NL]: So for completely blind people who are now 24, there's
+NL: So for completely blind people who are now 24, there's
 a sleep remedy that's effective against the disorder.
 
 91
 00:08:43,440 --> 00:08:49,160
-[NL]: It's called tazimelton, but it's not
-approved for people who can still sense light.
+NL: It's called Tazimelton, but it's not
+approved for people who can still perceive light.
 
 92
 00:08:49,360 --> 00:08:51,760
-So it's not even
-about Steffen LaRock.
+NL: So that's not even
+true of Steffen Larroque.
 
 93
 00:08:52,640 --> 00:08:54,940
-He's mostly helping
-himself with light therapy.
+NL: He helps himself
+primarily with light therapy.
 
 94
 00:08:54,940 --> 00:09:02,100
-[NL]: When he wakes up, he puts on a device, which is a type
+NL: When he wakes up, he puts on a device, which is a type
 of glasses, that radiates light to his eyes almost all day.
 
 95
 00:09:02,360 --> 00:09:04,880
-[NL]: He wore it during
+NL: He wore it during
 our interview, for example.
 
 96
 00:09:05,580 --> 00:09:09,280
-[NL]: At night, he makes sure to
-give himself as much germ as possible.
+NL: At night, he makes sure to
+get as much germ light as possible.
 
 97
 00:09:09,620 --> 00:09:14,660
-[NL]: For that, he wears a special pair of sunglasses
-with red glasses when he has to be out at night.
+NL: He wears them when he has to be out at night,
+like a special sunglasses with red glasses.
 
 98
 00:09:15,220 --> 00:09:19,160
-[NL]: Things like going to the
-movies at night are out of his mind.
+NL: So everyday things like going to
+the movies at night are out of his mind.
 
 99
 00:09:19,360 --> 00:09:22,380
-So he can't lead a
+HK: So he can't lead a
 completely normal life?
 
 100
 00:09:22,380 --> 00:09:24,020
-No, not quite.
+NL: No, not quite.
 
 101
 00:09:24,140 --> 00:09:33,120
-[NL]: But it helps him a lot today to know that it's not about his personality
+NL: But it helps him a lot today to know that it's not about his personality
 that he wasn't lazy when he wanted to sleep during the day or had to.
 
 102
 00:09:33,700 --> 00:09:38,360
-[NL]: The rhythm disorder is part of
+NL: The rhythm disorder is part of
 him, but not part of his personality.
 
 103
 00:09:39,040 --> 00:09:45,280
-[NL]: He's also on the go in online communities,
-exchanging with people who are also now 24.
+NL: He's also been on the internet,
+sharing with people who are also now 24.
 
 104
 00:09:53,380 --> 00:09:56,880
-You're normal in
-your abnormality.
+HK: You're normal
+in your abnormality.
 
 105
 00:09:57,000 --> 00:10:02,000
-So a sentence that we could all
+HK: So a sentence that we could all
 remember, with or without sleep disorder.
 
 106
 00:10:02,180 --> 00:10:04,680
-[NL]: Yeah, that's right, I
-think that's very well said.
+NL: Yeah, that's right, I
+think that's very nice to say.
 
 107
 00:10:05,200 --> 00:10:12,300
-And I took something else from the conversation with Steffen
-LaRock that I might be able to translate into my own life.
+NL: And I took something else from the conversation with Steffen
+Larroque that I might be able to translate into my own life.
 
 108
 00:10:12,800 --> 00:10:16,400
-[NL]: He and his wife have a
+NL: He and his wife have a
 rule that I find very charming.
 
 109
 00:10:16,780 --> 00:10:18,500
-You never fight at night.
+NL: Because you
+never fight at night.
 
 110
 00:10:18,860 --> 00:10:23,360
-[NL]: When a conflict somehow collapses,
+NL: When a conflict somehow collapses,
 they always postpone it to the next day.
 
 111
 00:10:23,900 --> 00:10:29,620
-[NL]: Because in the morning, you can better resolve
-conflicts, LaRock says, even because of our circadian rhythm.
+NL: Because in the morning, you can better resolve
+conflicts, Larroque says, also because of our circadian rhythm.
 
 112
 00:10:30,020 --> 00:10:31,360
-[HK] Yeah, I think
+HK: Yeah, I think
 it's a good idea too.
 
 113
 00:10:31,500 --> 00:10:34,280
-And we all have a
+HK: And we all have a
 circadian rhythm after all.
 
 114
 00:10:35,120 --> 00:10:41,960
-[HK]: And he also determines, for example, whether
-we're owls or squirrels, so go to bed early or late.
+HK: And he also determines, for example, whether
+we're owls or lizards, so we go to bed early or late.
 
 115
 00:10:42,320 --> 00:10:45,260
-[NL]: That's right, the rhythm
+NL: That's right, the rhythm
 is determined by our genetics.
 
 116
 00:10:45,700 --> 00:10:51,560
-[NL]: So science can even determine if someone
+NL: So science can even determine if someone
 is an owl or a lizard by using a hair sample.
 
 117
 00:10:52,160 --> 00:10:55,240
-[NL]: We all have
-different preferred bedtime.
+NL: We all have different
+preferred bedtime.
 
 118
 00:10:56,080 --> 00:11:02,980
-And everything in a time window from 9 p.m. to
-1 a.m. at most is normal, too, says Ingo Fieze.
+NL: And everything in a time window from 9 p.m. to 1 a.m.
+at most is also quite normal at first, says Ingo Fieze.
 
 119
 00:11:03,500 --> 00:11:07,120
-He runs the sleep medicine
-center at Berlin Charité.
+NL: He runs the sleep
+medicine center at Berlin Charité.
 
 120
 00:11:07,760 --> 00:11:12,440
-[Ingo Fietze]: It's in our genes,
-it's fixed, it doesn't change much.
+Ingo Fietze: It's in our genes,
+it's fixed, it's not changing much.
 
 121
 00:11:13,540 --> 00:11:16,540
-There are only
+IF: There are only
 two shifts in life.
 
 122
 00:11:17,340 --> 00:11:21,440
-[IF]: One is when I was a
+IF: One is when I was a
 teenager, say between 13.
 
 123
 00:11:21,880 --> 00:11:22,700
-[IF]: and 19.
+IF: and 19.
 
 124
 00:11:22,960 --> 00:11:28,540
-[IF]: Age, I'm going to be an owl automatically,
+IF: Age, I'm going to be an owl automatically,
 I prefer to go to bed between 10:00 and 24:00.
 
 125
 00:11:29,660 --> 00:11:34,780
-And as an older person, I say 55 years,
-this rhythm is moving a little further.
+IF: And as I get older, I say 55 years,
+this rhythm moves back a little bit forward.
 
 126
 00:11:35,900 --> 00:11:41,900
-[HK]: Yeah, and what if I like to go to bed
+HK: Yeah, and what if I like to go to bed
 much later, so not between 9:00 and 1:00?
 
 127
 00:11:42,360 --> 00:11:49,960
-[NL]: Then there could be a shift forward
+NL: Then there could be a shift forward
 or backward of your circadian rhythm.
 
 128
 00:11:50,440 --> 00:11:56,400
-[NL]: And then you talk about a circadian
+NL: And then you talk about a circadian
 sleep rhythm disorder, like 24 is now a one.
 
 129
 00:11:56,880 --> 00:12:10,220
-[IF]: When young people say I can only go to bed at two or three, I can't go to bed before,
-I can't sleep at all, so we're starting off not from a owl, but from a shifted sleep rhythm.
+IF: When young people say I can only go to bed at two or three, I can't go to bed
+before, I can't sleep at all, so we're starting from a shifted sleep rhythm, not a owl.
 
 130
 00:12:10,700 --> 00:12:18,680
-[NL]: It may happen that the internal rhythm of sleep is genetically engineered
+NL: It can happen that the internal rhythm of sleep is genetically engineered
 to the point that their biological night always doesn't start until 3:00.
 
 131
 00:12:19,120 --> 00:12:33,940
-[NL]: However, according to Vize, teenagers who often have the problem of going to bed very late are much
+NL: However, according to Vize, young people who often have the problem of going to bed very late are much
 more likely to postpone their period by sitting at their computer or cell phone until four o'clock at night.
 
 132
 00:12:34,620 --> 00:12:44,720
-[NL]: Delayed sleep rhythm is also often the problem of shiftworkers or night
-workers whose biological sleep rhythm is constantly disturbed by their working hours.
+NL: Delayed sleep rhythm is also often the problem of shiftworkers or night workers
+whose biological sleep rhythm is constantly disturbed by their working hours.
 
 133
 00:12:45,400 --> 00:12:48,380
-Then shall night be for
-them day, and day for night?
+NL: So night becomes day
+and day becomes night for them?
 
 134
 00:12:48,720 --> 00:12:59,040
-[NL]: Exactly, you can compare it a little bit to being in a constant jet lag, and that's
-not, or at least it's very difficult to reconcile with being active during the day.
+NL: That's right, you can compare it a little bit to having a jet lag all the time, and then
+it's not, or at least it's very difficult to reconcile with being active during the day.
 
 135
 00:12:59,700 --> 00:13:03,840
-[NL]: Ingo Vietze gave an example
+NL: Ingo Vietze gave an example
 from his own experience of treatment.
 
 136
 00:13:04,340 --> 00:13:12,800
-Fördner worked the night shift for 30 years, lost his job,
-retired to Germany, and they said, "Look for a new job".
+IF: Fördner worked the night shift for 30 years, lost his job,
+retired to Germany and they said, "You're looking for a new job".
 
 137
 00:13:13,740 --> 00:13:18,880
-[IF]: He didn't find one and the pensioner
-recommended you take a day's nap.
+If he didn't find one and the pension
+recommended, you'll have to take a day's nap.
 
 138
 00:13:19,560 --> 00:13:26,940
-[IF]: Did he try, did he not tolerate, and then he came
-to us and said, "Doctor, what are we going to do now?"
+IF: Did he try it, did he not tolerate it, and then
+he came to us and said, "Doctor, what do we do now?"
 
 139
 00:13:27,480 --> 00:13:42,060
-[IF]: And then I actually wrote him a test that he obviously would not be a day person from this night person anymore,
+IF: And then I actually wrote him a test that he obviously would not be a day person from being a night person anymore,
 because he's been doing that for 30 years and if the German pension is there or the employment agency can't find him a job,
 
 140
 00:13:42,220 --> 00:13:43,240
-[IF]: then he wants
-to be touched.
+If he wants to be charged.
 
 141
 00:13:43,760 --> 00:13:54,800
-[NL]: If your body tells you to go to sleep at four o'clock, but you're forced to show up
-at work at eight, you're logically getting too little sleep and then you're also sleeping.
+NL: If your body tells you to go to sleep at four o'clock, but you're forced to show up at
+work at eight o'clock, you're logically getting too little sleep and then you're also sleeping.
 
 142
 00:13:55,380 --> 00:14:06,220
-[IF]: The problem today is that we still have too little flexibility in working hours, that young
+IF: The problem today is that we still have too little flexibility in working hours, that young
 people who are more likely to go to bed later still have to go to school early at seven or eight.
 
 143
 00:14:06,440 --> 00:14:11,040
-But not every sleep disorder is a
-disturbance of circadian rhythm.
+NL: But not every sleep disorder
+is a disturbance of circadian rhythm.
 
 144
 00:14:11,600 --> 00:14:17,720
-[NL]: According to Ingo Vieze, these disorders occur,
+NL: According to Ingo Vieze, these disorders occur,
 and then you talk about insomnia, even more often.
 
 145
 00:14:18,320 --> 00:14:22,480
-[NL]: People with this condition may
+NL: People with this condition may
 not sleep well or wake up often at night.
 
 146
 00:14:23,060 --> 00:14:31,080
-[NL]: So, for example, mental illness or fatigue
-or just poor sleep hygiene can be the cause.
+NL: The reasons can be, for example, mental
+illness or a stroke or simply poor sleep hygiene.
 
 147
 00:14:31,580 --> 00:14:34,340
-[HK]: Sleep hygiene, so what
+HK: Sleep hygiene, so what
 would be a good sleep hygiene?
 
 148
 00:14:34,940 --> 00:14:41,440
-[NL]: For example, it would be good to pay attention
+NL: For example, it would be good to pay attention
 to rest during sleep and to have regular bedtimes.
 
 149
 00:14:42,260 --> 00:14:46,500
-[HK]: And when do you know
+HK: And when do you know
 you have a sleep disorder?
 
 150
 00:14:46,680 --> 00:14:50,200
-I mean, I can get a bad night's
+HK: I mean, I can get a bad night's
 sleep sometimes, and I know that.
 
 151
 00:14:51,080 --> 00:14:54,460
-[NL]: Ingo Vieze has a
-relatively simple rule for that.
+NL: Ingo Vieze has a
+relatively simple rule for this.
 
 152
 00:14:54,920 --> 00:15:08,680
-[NL]: If you have trouble falling asleep or falling asleep at least three times a week and you don't
-change it in four to 12 months, even though you're taking care of your sleep hygiene, you should seek help.
+NL: If you have trouble falling asleep or falling asleep at least three times a week and you don't change
+it within four to 12 months, even though you're taking care of your sleep hygiene, you should seek help.
 
 153
 00:15:08,980 --> 00:15:14,640
-[NL]: After such a long period of sleep problems,
-you're talking about a chronic sleep disorder.
+NL: After such a long period of sleep problems,
+you're talking about chronic sleep disorder.
 
 154
 00:15:15,100 --> 00:15:23,820
-To prevent this from happening, I'm going to talk to Tobias Hürther,
-a time science author who wrote the book You Are What You Sleep.
+HK: So to prevent this from happening, I'm going to talk to Tobias Hürther,
+who's a time science author and has written the book You Are What You Sleep.
 
 155
 00:15:24,340 --> 00:15:29,720
-[HK]: He knows some scientifically sound sleep
+HK: He knows some scientifically sound sleep
 tips for anyone without adult sleep disorders.
 
 156
 00:15:29,940 --> 00:15:30,660
-Hey, Tobias, what's going on?
+HK: Hi, Tobias. What is it?
 
 157
 00:15:31,060 --> 00:15:31,440
-[Tobias Hürther] Hello, Hella,
-I'm going to be there for you.
+I'm going to tell you something.
 
 158
 00:15:32,240 --> 00:15:34,800
-Tobias, how did
+HK: Tobias, how did
 you sleep last night?
 
 159
 00:15:35,940 --> 00:15:39,300
-[TH]: In some ways good,
-so I slept enough, eight hours.
+TH: In some ways good, so
+I've slept enough, eight hours.
 
 160
 00:15:39,740 --> 00:15:43,200
-[TH]: I slept a little light,
-had a little deep sleep.
+TH: I slept a little light, I
+had a little bit of deep sleep.
 
 161
 00:15:43,200 --> 00:15:46,220
-What do you mean, easy sleep?
+HK: What do you
+mean, easy sleep?
 
 162
 00:15:46,960 --> 00:16:06,140
-[TH]: Deep sleep is usually in the first, first half of sleep, and there, so the sleep phases are always
-alternating in these cycles, and the focus in the first half of sleep is on deep sleep, and that's for some reason,
+TH: Deep sleep is usually in the first, first half of sleep, and there, so the sleep phases are always alternating
+in these cycles, and the focus in the first half of sleep is on deep sleep, and that's for some reason,
 
 163
 00:16:06,200 --> 00:16:11,060
-[TH]: I don't know, something came up short
-last night, tells me the recording of my watch.
+TH: I don't know, something came up short last
+night, tells me the recording of my watch.
 
 164
 00:16:11,720 --> 00:16:14,620
-What do you pay attention
+HK: What do you pay attention
 to when you go to sleep?
 
 165
 00:16:15,440 --> 00:16:29,180
-[TH]: Regularity, so I'm really trying to go to bed at the same time and
+TH: Regularity, so I'm really trying to go to bed at the same time and
 slowly slip into this sleep mode, doing similar things at the same time.
 
 166
 00:16:30,020 --> 00:16:33,020
-And what does it mean to
+HK: And does it mean you
 always wake up at the same time?
 
 167
 00:16:33,500 --> 00:16:40,680
-[TH: That's the most obvious thing, of course, not always,
+TH: So that's the best way to do it, which is, of course, not always,
 depending on how the day goes, what's coming, but that's part of it.
 
 168
 00:16:41,120 --> 00:16:46,920
-[HK]: Can you actually go to bed
+HK: Can you actually go to bed
 or go to bed, so get some sleep?
 
 169
 00:16:47,660 --> 00:16:51,060
-[TH]: Unfortunately, you
-can't sleep in the morning.
+TH: Unfortunately, you
+can't sleep in advance.
 
 170
 00:16:51,380 --> 00:16:56,180
-[TH]: You can't sleep on supplies, I think that's great
+TH: You can't sleep on supplies, which I think is great
 and practical, but unfortunately it's not possible.
 
 171
 00:16:56,680 --> 00:17:05,160
-[TH]: The regeneration processes have to come after what we've been
-burdened with, so you can't fall asleep, unfortunately, unfortunately.
+TH: The regeneration processes have to come after what we've been burdened
+with, so you can't sleep in advance, unfortunately, unfortunately.
 
 172
 00:17:05,760 --> 00:17:06,920
-But can you go back to sleep?
+HK: But can you
+go back to sleep?
 
 173
 00:17:07,260 --> 00:17:21,600
-[TH]: You can do that again to some degree, but then of course you've spent some time in sleep deprivation,
+TH: You can get that back to a certain degree, but then of course you've spent some time in sleep deprivation,
 which is not that healthy, but obviously, so if you have a sleep deprivation, you can catch up, yeah.
 
 174
 00:17:22,340 --> 00:17:30,300
-[HK]: Well, in couples, the thing is, we'd rather sleep
+HK: Well, in couples, the thing is, we'd rather sleep
 apart, so each for himself or for two, do you agree?
 
 175
 00:17:30,680 --> 00:17:53,340
-[TH]: So sleep is very individual, I think I have an opinion for myself, I like to sleep in pairs, although it has disadvantages, but some people
+TH: So sleep is very individual, so I think I have an opinion for myself, I like to sleep in pairs, although it has disadvantages, but some people
 are more sensitive to it, and it can also make sense to sleep separately, so as with many questions about sleep, the answer is usually individual.
 
 176
 00:17:54,380 --> 00:18:07,880
-[HK]: And you have kids, too, I don't know how old they are, how about younger
-kids, how do you do it right as a parent, so they learn to sleep well and well?
+HK: And you have kids, too, I don't know how old they are, how are you doing with
+younger kids, how do you do it right as a parent, so that they learn healthy, good sleep?
 
 177
 00:18:08,320 --> 00:18:28,320
-[TH]: So our youngest child is ten and then he's already out of the deepest sleep, but it's known, anecdotally I know that, and it's
-also been proven by studies that parents of young children typically have extreme sleep deficits, which is unfortunately the case.
+TH: So our youngest child is ten and then he's out of the deepest sleep, but it's known, anecdotally, I know that, and it's also
+been proven by studies that parents of young children typically have extreme sleep deficits, which is unfortunately the case.
 
 178
 00:18:29,460 --> 00:18:39,100
-[TH]: So there's a new study that says it can take six years
+TH: So there's a new study that says it can take six years
 for parents to get back to their healthy sleep pattern.
 
 179
 00:18:40,440 --> 00:18:51,400
-[TH]: So for the first time, it's normal and important to stay calm about all
-this, because if you're stressed out, it's easily transmitted to the child.
+TH: So for the first time, it's normal and important to stay calm about all
+this, because if you're stressed out, it's easily passed on to the child.
 
 180
 00:18:51,860 --> 00:18:57,400
-[TH]: Because you say couples, it's really important
+TH: Because you say couples, it's really important
 to switch, which takes a lot of pressure off.
 
 181
 00:18:58,040 --> 00:19:05,580
-[TH]: It's also known that still mothers
+TH: It's also known that still mothers
 sleep significantly less than fathers.
 
 182
 00:19:06,800 --> 00:19:08,020
-I can confirm that.
+TH: I can confirm that.
 
 183
 00:19:10,060 --> 00:19:14,600
-And it's a real relief
-to be on the move.
+TH: And it's really a
+huge relief to be switching.
 
 184
 00:19:14,840 --> 00:19:17,880
-[HK]: But my question
+HK: But my question
 was more about the kids.
 
 185
 00:19:18,340 --> 00:19:24,020
-[HK]: So how do you teach kids to sleep well,
-to get through their sleep as soon as possible?
+HK: So how do you teach kids to sleep well, to
+get through their sleep as soon as possible?
 
 186
 00:19:24,640 --> 00:19:28,360
-[HK]: I always liked to read
-to my child before bed at night.
+HK: I always liked to read to
+my child before bed at night.
 
 187
 00:19:28,460 --> 00:19:31,680
-[HK]: I think that's
-recognized to be good, right?
+HK: I think that's
+recognized as good, right?
 
 188
 00:19:32,120 --> 00:19:32,660
-Yeah, that's right.
+TH: Yes, that's right.
 
 189
 00:19:33,320 --> 00:19:33,840
-Rituals.
+TH: Rituals.
 
 190
 00:19:34,520 --> 00:19:35,420
-Rituals are great.
+TH: Rituals are great.
 
 191
 00:19:35,600 --> 00:19:38,580
-So sleep has a lot
-to do with regularity.
+TH: So sleep has a
+lot to do with regularity.
 
 192
 00:19:38,840 --> 00:19:47,820
-[TH]: So unfortunately, we can't sleep on command, so
+TH: So unfortunately, we can't sleep on command, so
 we can eat on command or we can strain our muscles.
 
 193
 00:19:48,560 --> 00:19:56,120
-[TH]: But we can use our habits
+TH: But we can use our habits
 program in the brain to find sleep.
 
 194
 00:19:56,620 --> 00:20:05,020
-[HK]: Do you know of any phases in your own life where you suddenly
+HK: Do you know of any phases in your life where you suddenly
 find it harder to fall asleep or even get a good night's sleep?
 
 195
 00:20:05,220 --> 00:20:05,940
-[TH]: Yes, yes, you did.
+TH: Yes, yes.
 
 196
 00:20:06,280 --> 00:20:12,440
-[TH]: So if you're upset inside,
+TH: So if you're upset inside,
 if you're busy with something.
 
 197
 00:20:12,580 --> 00:20:18,820
-[TH]: That's often the first
+TH: That's often the first
 indication that something's wrong.
 
 198
 00:20:19,040 --> 00:20:21,900
-I'm most likely to
+TH: I'm most likely to
 notice this in my sleep.
 
 199
 00:20:22,140 --> 00:20:23,180
-So what are you doing?
+HK: So what are you doing?
 
 200
 00:20:23,440 --> 00:20:25,560
-[TH]: Well, I'm thinking
-about what this might be about.
+TH: Well, I'm thinking about
+what this might be about.
 
 201
 00:20:25,740 --> 00:20:27,960
-What's driving me around?
+TH: What's driving me?
 
 202
 00:20:29,440 --> 00:20:32,860
-[HK]: And how important
+HK: And how important
 are external factors?
 
 203
 00:20:33,100 --> 00:20:39,120
-So fresh air, open windows, not too
-hot, turn down heating, dark enough.
+HK: So fresh air, open windows, not
+too hot, turn down heating, dark enough.
 
 204
 00:20:39,280 --> 00:20:40,360
-[HK]: Is that really
+HK: Is that really
 that important?
 
 205
 00:20:40,920 --> 00:20:41,740
-[TH]: Yes, that's important.
+TH: Yes, that's important.
 
 206
 00:20:41,740 --> 00:20:44,860
-[TH]: Being able to sleep
+TH: Being able to sleep
 well is just about hormones.
 
 207
 00:20:45,740 --> 00:20:59,300
-And if you give your body the signal that it's actually a bright day, by
-light or very high energy, then you can't expect it to fall asleep easily.
+TH: And if you give your body the signal that it's actually a bright day, through
+bright or very energetic light, then you can't expect it to fall asleep easily.
 
 208
 00:20:59,500 --> 00:21:08,880
-[TH]: So in time, that means dimming the lighting a little bit, putting away
-the buzzing devices a little bit, and lowering the temperature in the bedroom.
+TH: So that means that in time, the lighting dims a little bit, you put the
+buzzing devices away a little bit, and you lower the temperature in the bedroom.
 
 209
 00:21:09,040 --> 00:21:14,420
-[TH]: So the optimal temperature for sleeping
+TH: So the optimal temperature for sleeping
 is all naturally studied, is amazingly low.
 
 210
 00:21:14,500 --> 00:21:15,420
-How much is it?
+HK: How much is it?
 
 211
 00:21:15,820 --> 00:21:18,000
-So it can be as
-low as 15 degrees.
+TH: So it can be 15 degrees.
 
 212
 00:21:18,240 --> 00:21:23,400
-[TH]: I actually think the best interval is
+TH: I actually think the best interval is
 somewhere between 13 and 17 degrees.
 
 213
 00:21:23,520 --> 00:21:28,140
-[TH]: So that's significantly below the
+TH: So that's significantly below the
 temperature we normally have in our homes.
 
 214
 00:21:28,860 --> 00:21:34,620
-[HK]: So I also half-opened the window and
-turned the heater down, but I got a little tick.
+HK: So I also opened the window halfway and
+turned the heater down, but I have a little tick.
 
 215
 00:21:34,780 --> 00:21:37,360
-I sleep under three blankets.
+HK: I sleep under
+three blankets.
 
 216
 00:21:38,020 --> 00:21:38,840
-Is that bad?
+HK: Is that bad?
 
 217
 00:21:38,940 --> 00:21:46,200
-[TH]: It's also known that a thick blanket, which exerts a little bit
-of pressure, but it creates a sense of security that helps you sleep.
+TH: It's also known that a thick blanket that exerts a little bit of pressure,
+so to speak, but it creates a sense of security that helps you sleep.
 
 218
 00:21:46,800 --> 00:21:47,880
-[TH]: That's been
-investigated, too.
+TH: That's been studied.
 
 219
 00:21:48,780 --> 00:21:53,520
-Tobias, you're also a great runner
+HK: Tobias, you're also a great runner
 and I think you're a mountain climber.
 
 220
 00:21:54,360 --> 00:22:00,360
-And do you actually spend nights
-outside in tents or even outdoors?
+HK: And do you actually spend
+nights outside in tents or even outdoors?
 
 221
 00:22:01,040 --> 00:22:04,340
-I haven't been out in the open in a
-while, but I like to spend nights outdoors.
+TH: Not in the open air anymore,
+but I like to spend nights outdoors.
 
 222
 00:22:05,080 --> 00:22:06,560
-What's so beautiful about that?
+HK: What's so
+beautiful about that?
 
 223
 00:22:07,240 --> 00:22:20,220
-[TH]: You don't necessarily sleep best, but it's just wonderful
-to be awakened by sunrise or birds, and it's wonderful.
+TH: You don't necessarily sleep best, but it's just wonderful
+to be awakened by sunrise or by birds, and it's wonderful.
 
 224
 00:22:20,760 --> 00:22:22,720
-So I like to sleep
+TH: So I like to sleep
 in the mountains.
 
 225
 00:22:22,840 --> 00:22:25,760
-Tobias, thank you for your tips.
+HK: Tobias, thank
+you for your tips.
 
 226
 00:22:26,320 --> 00:22:31,560
-[HK]: The seven best sleep aids you've described
-in the current issue of Time Knowledge.
+HK: The seven best sleep aids you've described
+in the current edition of Time Knowledge.
 
 227
 00:22:32,040 --> 00:22:35,280
-[HK]: That's where our
+HK: And that's where our
 new series starts overnight.
 
 228
 00:22:35,480 --> 00:22:41,940
-[HK]: We explain why people think,
+HK: We explain why people think,
 feel, and function differently at night.
 
 229
 00:22:46,740 --> 00:22:49,000
-[HK]: Which we can't explain.
+HK: Which we can't explain.
 
 230
 00:22:53,080 --> 00:22:56,380
-The impossible column
-by Christoph Drösser.
+HK: The impossible
+column by Christoph Drösser.
 
 231
 00:23:00,800 --> 00:23:04,120
-[Christoph Drösser]: Today, why
+Christoph Drösser: Today, why
 do some people walk in their sleep?
 
 232
 00:23:10,380 --> 00:23:17,540
-[CD]: The sleepwalker walking through the apartment with his arms
+CD: The sleepwalker walking through the apartment with his arms
 outstretched and his eyes closed is a popular comic book cliché.
 
 233
 00:23:18,060 --> 00:23:25,360
-[CD] In reality, sleepwalkers behave almost normally, at least
+CD: In reality, sleepwalkers behave almost normally, at least
 their gaze is a little stiff and their movements are uncertain.
 
 234
 00:23:25,860 --> 00:23:28,380
-And when they wake up,
+CD: And when they wake up,
 they don't remember anything.
 
 235
 00:23:30,600 --> 00:23:31,580
-[HK]: The problem.
+HK: The problem is.
 
 236
 00:23:34,740 --> 00:23:38,640
-[CD] On the one hand, sleepwalkers
-are sleeping, their consciousness is off.
+CD: On the one hand, sleepwalkers are
+sleeping, their consciousness is turned off.
 
 237
 00:23:39,060 --> 00:23:41,580
-[CD] On the other hand,
-they're acting like a vigilante.
+CD: On the other hand,
+they're behaving like a vigilante.
 
 238
 00:23:42,100 --> 00:23:47,020
-[CD]: How does this strange state of intermittent
+CD: How did this strange state of intermittent
 disorder, also called parasomnia, come about?
 
 239
 00:23:49,100 --> 00:23:50,460
-[SL]: Which we already know.
+SL: Which we already know.
 
 240
 00:23:53,340 --> 00:23:59,480
-[CD] You can't cause sleepwalking to happen on purpose,
+CD: You can't cause sleepwalking to happen on purpose,
 because it's similar to physical phenomena like swallowing.
 
 241
 00:23:59,880 --> 00:24:02,880
-[CD] So you can hardly test
+CD: So you can hardly test
 it in a sleep lab, for example.
 
 242
 00:24:03,420 --> 00:24:09,140
-[CD]: And because the sleep mutants don't remember their
+CD: And because the sleepwalkers don't remember their
 nightly episodes later, there are no exact numbers.
 
 243
 00:24:09,820 --> 00:24:19,340
-[CD]: One review study estimates that 5% of all children and 1.5% of
-all adults have experienced a sleep disorder in the last 12 months.
+CD: A review study estimates that 5% of all children and 1.5% of all
+adults have experienced a sleep change episode in the last 12 months.
 
 244
 00:24:20,160 --> 00:24:25,080
-[CD] Sleep change occurs in the deep sleep
+CD: Sleepwalking occurs in the deep sleep
 phase, not in the REM sleep we dream of.
 
 245
 00:24:25,660 --> 00:24:31,980
-[CD]: The episodes can last up to half an hour, and
-the victims can perform some of the most complex tasks.
+CD: The episodes can last up to half an hour, and the
+affected persons may perform some of the most complex tasks.
 
 246
 00:24:32,620 --> 00:24:34,120
-[CD] A lot of people are
+CD: A lot of people are
 making something to eat.
 
 247
 00:24:34,660 --> 00:24:42,020
-And an American sleepwalker drove 23 kilometers
+CD: And an American sleepwalker drove 23 kilometers
 to his mother-in-law, who he then killed.
 
 248
 00:24:42,460 --> 00:24:45,980
-[CD]: But most sleep mutants
+CD: But most sleep transformers
 don't pose a risk to outsiders.
 
 249
 00:24:46,580 --> 00:24:49,920
-And the full moon has
+CD: And the full moon has
 nothing to do with sleepwalking.
 
 250
 00:24:55,960 --> 00:25:00,060
-[CD]: There are a few
-factors that favor sleepwalking.
+CD: There are a few factors
+that favor sleep change.
 
 251
 00:25:00,560 --> 00:25:06,960
-[CD]: The common sleep patterns of children as adults may have
+CD: The common sleep patterns of children as adults may have
 something to do with their brain not being fully developed.
 
 252
 00:25:07,380 --> 00:25:09,980
-[CD]: There is a
+CD: There is a
 distinct genetic factor.
 
 253
 00:25:10,380 --> 00:25:14,760
-[CD]: Children with two sleepwalking parents are
+CD: Children with two parents who are sleepwalking are
 three times more likely to be affected than others.
 
 254
 00:25:15,460 --> 00:25:25,780
-[CD]: Mental illness promotes sleep patterns, and in those with migraines and Tourette
-syndrome, it occurs four to six times more often than in the general population.
+CD: Mental illness promotes sleep patterns, and it occurs four to six times more
+often in people with migraines and Tourette syndrome than in the general population.
 
 255
 00:25:26,520 --> 00:25:30,460
-[CD]: Lack of sleep and chronic
+CD: Sleep deprivation and chronic
 fatigue seem to favor the phenomenon.
 
 256
 00:25:31,120 --> 00:25:34,300
-[CD] Especially children often
-go to bed when they have a fever.
+CD: Especially children often go
+to sleep when they have a fever.
 
 257
 00:25:34,840 --> 00:25:38,480
-[CD]: And in women, the frequency
+CD: And in women, the frequency
 fluctuates with the menstrual cycle.
 
 258
 00:25:39,320 --> 00:25:41,620
-[CD] But these are all
+CD: But these are all
 statistical statements.
 
 259
 00:25:42,080 --> 00:25:48,520
-[CD]: How all these conditions actually affect the brain
+CD: How all these conditions actually affect the brain
 and disrupt the wake mechanism, science can't tell.
 
 260
 00:25:48,940 --> 00:25:51,440
-[CD]: There are no clinical
+CD: There are no clinical
 studies on sleepwalking.
 
 261
 00:25:52,160 --> 00:25:54,460
-[CD] Sleepwalking is
-not really a disease either.
+CD: Sleepwalking is not
+really a disease, either.
 
 262
 00:25:54,840 --> 00:25:59,060
-[CD]: The only negative consequences are
+CD: The only negative consequences are
 accidents that happen during night trips.
 
 263
 00:25:59,820 --> 00:26:07,420
-[CD]: That's probably why the phenomenon isn't being studied very
-intensively and also because the causes of sleep change are unclear.
+CD: Well, that's probably why there's not a lot of research on this
+phenomenon, and it's also because the causes of sleep change are unclear.
 
 264
 00:26:08,160 --> 00:26:14,000
-[CD]: One more thing, if you live with a
+CD: One more thing, if you live with a
 sleepwalker, don't wake him or her up brutally.
 
 265
 00:26:14,260 --> 00:26:15,700
-[CD] This confuses
+CD: It confuses
 the people involved.
 
 266
 00:26:16,220 --> 00:26:20,100
-[CD]: Take the person carefully by
-the shoulder and lead them back to bed.
+CD: Take the person carefully by the
+shoulder and lead them back to bed.
 
 267
 00:26:20,520 --> 00:26:23,160
-[CD] Then most
-people fall asleep easily.
+CD: Then you
+usually fall asleep.
 
 268
 00:26:28,280 --> 00:26:33,540
-[HK]: In the current Time Science issue, I'd
-like to recommend two more pieces for the night.
+HK: In the current Time Science issue, I'd like
+to recommend two more pieces for the night.
 
 269
 00:26:33,940 --> 00:26:38,780
-[HK]: Nils Böhing reports on his trip
+HK: Nils Böhing reports on his trip
 through Europe in three-night trains.
 
 270
 00:26:39,400 --> 00:26:44,540
-And what's definitely helping
+HK: And what's definitely helping
 with poor sleep is winter bathing.
 
 271
 00:26:45,040 --> 00:26:49,440
-[HK]: Anyone who dives in two degrees of cold
-water is guaranteed to be tired at night.
+HK: If you dive in two degrees of cold water,
+you're guaranteed to be tired at night.
 
 272
 00:26:50,460 --> 00:26:58,640
-[HK]: A free trial of the Time Know Magazine is
-available at time.de slash know minus podcast.
+HK: You can get a free trial of the Time Know
+Magazine at time.de slash know minus podcast.
 
 273
 00:26:59,320 --> 00:27:02,740
-[HK]: And we're excited
+HK: And we're excited
 about feedback and ideas.
 
 274
 00:27:03,020 --> 00:27:07,560
-[HK]: Please write to us at
-podcast at time minus know point.de.
+HK: Please write to us at podcast
+at time minus know point.de.
 
 275
 00:27:07,760 --> 00:27:10,020
-[HK] I'm Hella Kemper
-and I'll see you soon.
+HK: My name is Hella
+Kemper and I'll see you soon.
 
