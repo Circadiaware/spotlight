@@ -1,0 +1,1100 @@
+1
+00:00:00,000 --> 00:00:04,320
+Stephen Larroque: So, something I say sometimes is that I'm living outside of time.
+
+2
+00:00:04,560 --> 00:00:06,820
+Hella Kemper: Das ist Stephen Larroque.
+
+3
+00:00:07,220 --> 00:00:13,720
+HK: Er sagt von sich selbst, dass er außerhalb der Zeit lebt, hört sich irgendwie geheimnisvoll an, Nina.
+
+4
+00:00:14,260 --> 00:00:18,880
+Nina Lennartz: Ja, geheimnisvoll, aber auch kompliziert und schmerzhaft.
+
+5
+00:00:19,260 --> 00:00:28,640
+SL: Outside of school I had no activities, because it was very straining to go to school all the time at a fixed time.
+
+6
+00:00:29,240 --> 00:00:34,840
+NL: Larroque erzählt hier, wie anstrengend es für ihn war, jeden Tag um dieselbe Uhrzeit zur Schule zu gehen.
+
+7
+00:00:35,100 --> 00:00:36,720
+NL: Es raubte ihm all seine Kraft.
+
+8
+00:00:37,220 --> 00:00:43,100
+SL: Because of that I used all my energy and health to just attend school.
+
+9
+00:00:43,660 --> 00:00:46,100
+SL: And outside of school there's nothing.
+
+10
+00:00:46,880 --> 00:00:48,340
+SL: I had no life beyond.
+
+11
+00:00:48,540 --> 00:00:57,180
+NL: Das lag daran, dass sein circadianer Rhythmus, also sein innerer Schlaf-Wach-Rhythmus, nicht mit dem der restlichen Welt synchron ist.
+
+12
+00:00:57,580 --> 00:01:03,180
+NL: Als Kind war er nach der Schule deswegen oft hundemüde, ist zu Hause direkt eingeschlafen, egal wo.
+
+13
+00:01:03,780 --> 00:01:07,360
+NL: Und er sagt, dass er praktisch kein Leben außerhalb der Schule hatte.
+
+14
+00:01:08,660 --> 00:01:13,920
+HK: Was heißt das, dass sein innerer Rhythmus nicht synchron verläuft zu dem der restlichen Welt?
+
+15
+00:01:14,520 --> 00:01:19,980
+NL: Unser Schlaf-Wach-Verhalten wird eben von diesem circadianer Rhythmus in uns gesteuert.
+
+16
+00:01:20,780 --> 00:01:27,200
+NL: Circadianer, weil der Rhythmus circa 24 Stunden dauert, mal ein bisschen länger, mal ein bisschen kürzer.
+
+17
+00:01:27,800 --> 00:01:30,780
+NL: Durchschnittlich liegt er ungefähr bei 24,2.
+
+18
+00:01:31,100 --> 00:01:36,960
+HK: Aber unsere Welt ist nach einem exakten 24-Stunden-Rhythmus getaktet, nicht einem ungefähren.
+
+19
+00:01:37,700 --> 00:01:38,020
+NL: Genau.
+
+20
+00:01:38,280 --> 00:01:48,400
+NL: Und das ist möglich, weil äußere Faktoren wie das Tageslicht, aber auch Ernährung und Bewegung unsere inneren Uhren auf 24 Stunden nachjustieren sozusagen.
+
+21
+00:01:49,260 --> 00:01:57,020
+NL: Licht ist dabei der entscheidende Faktor, weil er auf unsere wichtigste innere Uhr einwirkt, den subrachiasmatischen Kern im Hypothalamus.
+
+22
+00:01:57,480 --> 00:02:02,400
+NL: Wenn Licht auf unsere Netzhaut fällt, gelangen von dort auch Signale zu genau diesem Kern.
+
+23
+00:02:03,000 --> 00:02:08,080
+NL: Und das führt dann dazu, dass die Produktion des Schlafhormons Melatonin gestoppt wird.
+
+24
+00:02:08,240 --> 00:02:09,240
+NL: Wir werden dann also wach.
+
+25
+00:02:10,020 --> 00:02:11,540
+NL: Jetzt gibt es allerdings ein Problem.
+
+26
+00:02:11,880 --> 00:02:15,080
+NL: Diese Synchronisation funktioniert nicht bei allen Menschen.
+
+27
+00:02:15,700 --> 00:02:17,500
+NL: Sie leben in ihrer eigenen Zeit.
+
+28
+00:02:18,180 --> 00:02:30,700
+HK: Guten Morgen oder guten Abend, je nachdem, wo der Zeiger ihrer inneren Uhr gerade steht oder wo auf der Welt sie sich gerade befinden.
+
+29
+00:02:31,260 --> 00:02:36,320
+HK: Mein Name ist Hella Kemper und ich begleite Sie durch die heutige Folge des Zeitwissen-Podcasts.
+
+30
+00:02:36,720 --> 00:02:39,480
+HK: Wir wollen versuchen, den Schlaf besser zu verstehen.
+
+31
+00:02:39,740 --> 00:02:42,640
+HK: Wir treffen Menschen, deren innere Uhr anders tickt.
+
+32
+00:02:42,640 --> 00:02:47,480
+HK: Unsere Autorin Nina Lennertz hat mit einem Schlafmediziner gesprochen.
+
+33
+00:02:47,640 --> 00:02:57,560
+HK: Sie wollte wissen, wann man nicht mehr von schlechten Einschlafen spricht, sondern es sich um eine richtige Schlafstörung handelt und was man dagegen tun kann.
+
+34
+00:02:58,160 --> 00:03:05,460
+HK: Und weil viele von uns hin und wieder nachts wach liegen, bekommen Sie die besten Schlaftipps von unserem Autor Tobias Hürther.
+
+35
+00:03:05,980 --> 00:03:10,520
+HK: Er ist Philosoph und durchwachte Nächte sind ihm da, glaube ich, nicht ganz fremd.
+
+36
+00:03:10,520 --> 00:03:16,060
+HK: Und Christoph Drösser fragt in seiner Unmöglichen Kolumne, warum manche von uns Schlaf wandeln.
+
+37
+00:03:20,980 --> 00:03:32,680
+HK: Nina, der französische Neurowissenschaftler Stéphane Larroque hat also Probleme, seinen individuellen Tag-Nacht-Rhythmus an unseren 24-Stunden-Tag anzupassen.
+
+38
+00:03:33,160 --> 00:03:35,320
+HK: Klingt nach einem anstrengenden Leben.
+
+39
+00:03:35,880 --> 00:03:37,640
+NL: Ja, er hat nun 24.
+
+40
+00:03:37,640 --> 00:03:44,160
+NL: Non-24, das ist eine Störung, dieses zirkadianen Rhythmus, die sehr häufig bei blinden Menschen auftritt.
+
+41
+00:03:44,500 --> 00:03:45,800
+NL: Aber Larroque ist nicht blind.
+
+42
+00:03:46,260 --> 00:03:48,620
+NL: Nein, nein, er kann ohne Einschränkungen sehen.
+
+43
+00:03:49,220 --> 00:03:51,460
+NL: Damit gehört er aber zu einem der seltenen Fälle.
+
+44
+00:03:51,700 --> 00:03:54,820
+NL: Bei blinden Menschen kommt Non-24 viel öfter vor.
+
+45
+00:03:55,640 --> 00:04:04,020
+NL: Laut einem Fachartikel von 2016 leiden bis zu 70 Prozent der Blinden, die überhaupt kein Licht mehr wahrnehmen können darunter.
+
+46
+00:04:04,380 --> 00:04:11,580
+NL: Die Anpassung ihrer inneren Uhren durch das Licht fällt aus, heißt, ihr innerer Rhythmus läuft dann unabhängig davon.
+
+47
+00:04:12,420 --> 00:04:22,300
+NL: Hat jemand einen zirkadianen Rhythmus von 24,5 Stunden, verschieben sich seine Schlaf- und Aufwachzeiten beispielsweise jeden Tag um 30 Minuten.
+
+48
+00:04:23,200 --> 00:04:30,420
+HK: Also nochmal zusammengefasst, der Schlaf-Wachrhythmus dieser Menschen läuft unabhängig vom äußeren Tag-Nacht-Rhythmus ab.
+
+49
+00:04:30,800 --> 00:04:32,620
+HK: Mal passt es, meistens aber nicht.
+
+50
+00:04:32,620 --> 00:04:46,780
+NL: Genau, also bei dem Beispiel einer Rhythmus-Dauer von 24,5 Stunden dauert es 48 Tage, bis der innere Rhythmus, praktisch die innere Nacht und der innere Tag mit dem äußeren wieder übereinstimmt.
+
+51
+00:04:47,160 --> 00:04:50,980
+NL: Und dann geht das Ganze wieder von vorne los und verschiebt sich weiter.
+
+52
+00:04:51,460 --> 00:04:59,440
+HK: Klingt anstrengend für den Organismus, aber lass uns doch noch einmal auf die Ursache dieser Rhythmusstörung zurückkommen.
+
+53
+00:05:00,240 --> 00:05:06,640
+HK: NON24 kommt häufig bei blinden Menschen vor, aber Stephen Larroque, das haben wir ja gerade schon gesagt, kann sehen.
+
+54
+00:05:06,960 --> 00:05:11,100
+NL: Ja, und lange Zeit wusste er auch überhaupt nicht, was mit ihm los ist.
+
+55
+00:05:11,580 --> 00:05:18,260
+NL: NON24 wird auch bei blinden Menschen manchmal gar nicht oder zumindest lange Zeit nicht diagnostiziert.
+
+56
+00:05:19,060 --> 00:05:22,620
+NL: Stephen Larroque hat seine Diagnose dann mit Mitte 20 bekommen.
+
+57
+00:05:23,220 --> 00:05:28,720
+NL: Warum genau NON24 jetzt auch bei sehenden Menschen vorkommt, das ist immer noch nicht klar.
+
+58
+00:05:29,220 --> 00:05:32,980
+NL: Larroque selbst geht davon aus, dass es bei ihm genetisch bedingt ist.
+
+59
+00:05:33,180 --> 00:05:38,320
+NL: Sein Vater und seine Großmutter sollen nämlich ein ganz ähnliches Schlafwachverhalten gehabt haben wie er.
+
+60
+00:05:38,320 --> 00:06:04,400
+SL: Seine Freunde haben sogar Witze darüber gemacht, dass sein Vater ein Vampir sei, weil er so oft tagsüber hinter zugezogenen Jalousien schlief.
+
+61
+00:06:04,920 --> 00:06:07,140
+NL: Lange Zeit war Larroques Vater arbeitslos.
+
+62
+00:06:07,540 --> 00:06:11,760
+NL: So ergeht es vielen Menschen in der NON24-Community, sagt er.
+
+63
+00:06:12,260 --> 00:06:23,140
+NL: Schließlich ist es jetzt auch nicht gerade leicht, einen Job zu finden, der zu einem verschobenen Schlafrhythmus passt oder eine Arbeit zu halten, die einen zwingt, dauerhaft gegen die eigene innere Uhr zu leben.
+
+64
+00:06:23,560 --> 00:06:26,720
+HK: Und wie läuft das bei Stephen Larroque selbst?
+
+65
+00:06:27,120 --> 00:06:29,560
+HK: Wurde sein Leben nach der Diagnose einfacher?
+
+66
+00:06:29,800 --> 00:06:40,020
+NL: Also erstmal hat er tatsächlich im Großen und Ganzen weitergemacht wie bisher und einfach versucht, sich dem Rhythmus seiner Umgebung anzupassen, gegen seine innere Uhr.
+
+67
+00:06:48,740 --> 00:06:56,160
+NL: Das hieß für ihn, dass er keine zuverlässigen Pläne machen konnte, weil er nie wusste, ob er vielleicht einschläft oder müde ist.
+
+68
+00:06:56,640 --> 00:06:58,000
+NL: Das war sehr chaotisch.
+
+69
+00:06:58,000 --> 00:07:06,500
+SL: Es gab viele Probleme, sowohl mit meiner Freundin als auch mit der Universität.
+
+70
+00:07:06,940 --> 00:07:14,480
+SL: Wenn ich zu den Lektüren kam, musste ich sehr oft nicht schlafen.
+
+71
+00:07:15,680 --> 00:07:16,540
+SL: Ich musste nicht schlafen.
+
+72
+00:07:17,060 --> 00:07:18,400
+SL: Ich schlief nicht.
+
+73
+00:07:19,040 --> 00:07:23,200
+SL: Manchmal schlief ich, wenn ich in der Lektüre gewesen wäre.
+
+74
+00:07:23,500 --> 00:07:28,780
+NL: Es war schwer für die Beziehung mit seiner damaligen Freundin, mit der er heute verheiratet ist.
+
+75
+00:07:29,380 --> 00:07:32,580
+NL: Aber auch in seinem Studium gab es Probleme durch die Schlafstörungen.
+
+76
+00:07:33,080 --> 00:07:37,100
+NL: Manchmal ist er zu Vorlesungen gegangen, ohne überhaupt geschlafen zu haben.
+
+77
+00:07:37,480 --> 00:07:40,940
+NL: Oder manchmal hat er geschlafen, während er eigentlich auch in der Uni sein sollte.
+
+78
+00:07:41,960 --> 00:07:46,540
+SL: Ich hatte ein Netzwerk von Freunden, die mir Noten geschickt haben.
+
+79
+00:07:48,480 --> 00:07:51,900
+SL: Ich musste Strategien finden, um diese Probleme zu überwinden.
+
+80
+00:07:52,260 --> 00:07:57,280
+NL: Larroque musste sich also Strategien überlegen, um mit seinem verschobenen Rhythmus leben zu können.
+
+81
+00:07:57,680 --> 00:07:58,340
+NL: Er hatte z.B.
+
+82
+00:07:58,480 --> 00:08:01,860
+NL: ein Netzwerk von Freunden, die für ihn in der Uni mitgeschrieben haben.
+
+83
+00:08:02,080 --> 00:08:03,160
+NL: Sehr aufwendig.
+
+84
+00:08:03,500 --> 00:08:04,540
+NL: Ja, das war es.
+
+85
+00:08:04,760 --> 00:08:09,260
+NL: Und es war auch sehr anstrengend, sodass Larroque Probleme mit seinem Herzen bekommen hat.
+
+86
+00:08:09,780 --> 00:08:15,380
+NL: Die Herzprobleme wurden nur besser, wenn er Nächte hatte, in denen er gut und lange schlafen konnte, sagt er.
+
+87
+00:08:15,800 --> 00:08:20,840
+NL: Sein Rhythmus also gerade relativ im Einklang war mit dem Tag-Nacht-Rhythmus von uns allen.
+
+88
+00:08:21,500 --> 00:08:32,300
+NL: Da hat Larroque dann angefangen zu versuchen, seine Einschlaf- und Aufwachzeiten besser zu kontrollieren und eben unserem in Anführungsstrichen normalen 24-Stunden-Rhythmus anzupassen.
+
+89
+00:08:32,620 --> 00:08:35,520
+HK: Aber wie kann man das schaffen, seinen biologischen Rhythmus anzupassen?
+
+90
+00:08:36,000 --> 00:08:43,040
+NL: Also für völlig erblindete Menschen, die nun 24 haben, gibt es ein Schlafmittel, das wirksam gegen die Störung ist.
+
+91
+00:08:43,440 --> 00:08:49,160
+NL: Es heißt Tazimelton und ist aber nicht für Menschen zugelassen, die Licht noch wahrnehmen können.
+
+92
+00:08:49,360 --> 00:08:51,760
+NL: Kommt also auch für Steffen Larroque nicht in Frage.
+
+93
+00:08:52,640 --> 00:08:54,940
+NL: Er behilft sich vor allem mit Lichttherapie.
+
+94
+00:08:54,940 --> 00:09:02,100
+NL: Nach dem Aufwachen zieht er ein Gerät an, das ist so eine Art Brille, die seine Augen dann fast den ganzen Tag mit Licht bestrahlt.
+
+95
+00:09:02,360 --> 00:09:04,880
+NL: Die hatte er zum Beispiel auch während unseres Interviews an.
+
+96
+00:09:05,580 --> 00:09:09,280
+NL: Abends wiederum achtet er darauf, sich möglichst Keimlicht auszuliefern.
+
+97
+00:09:09,620 --> 00:09:14,660
+NL: Dafür trägt er, wenn er abends draußen sein muss, zum Beispiel eine spezielle Sonnenbrille mit roten Gläsern.
+
+98
+00:09:15,220 --> 00:09:19,160
+NL: So alltägliche Sachen wie abends ins Kino zu gehen, fallen für ihn aus.
+
+99
+00:09:19,360 --> 00:09:22,380
+HK: Also ein komplett normales Leben kann er gar nicht führen?
+
+100
+00:09:22,380 --> 00:09:24,020
+NL: Nein, nicht ganz.
+
+101
+00:09:24,140 --> 00:09:33,120
+NL: Aber es hilft ihm heute sehr zu wissen, dass es nicht an seiner Persönlichkeit liegt, dass er als Kind nicht faul war, als er tagsüber schlafen wollte oder musste.
+
+102
+00:09:33,700 --> 00:09:38,360
+NL: Die Rhythmusstörung ist zwar ein Teil von ihm, aber nicht ein Teil seiner Persönlichkeit.
+
+103
+00:09:39,040 --> 00:09:45,280
+NL: Außerdem ist er in Online-Communities unterwegs und tauscht sich mit Menschen aus, die ebenfalls nun 24 haben.
+
+104
+00:09:53,380 --> 00:09:56,880
+HK: Man ist normal in seiner Abnormalität.
+
+105
+00:09:57,000 --> 00:10:02,000
+HK: Also ein Satz, den wir uns alle merken könnten, mit oder ohne Schlafstörung.
+
+106
+00:10:02,180 --> 00:10:04,680
+NL: Ja, genau, das finde ich auch sehr schön gesagt.
+
+107
+00:10:05,200 --> 00:10:12,300
+NL: Und ich habe noch etwas anderes aus dem Gespräch mit Steffen Larroque mitgenommen, das ich vielleicht mal auf mein eigenes Leben übertragen werde.
+
+108
+00:10:12,800 --> 00:10:16,400
+NL: Seine Frau und er haben eine Regel, die ich sehr charmant finde.
+
+109
+00:10:16,780 --> 00:10:18,500
+NL: Sie streiten nämlich nie am Abend.
+
+110
+00:10:18,860 --> 00:10:23,360
+NL: Wenn sich ein Konflikt irgendwie zusammenbraut, verschieben sie ihn immer auf den nächsten Tag.
+
+111
+00:10:23,900 --> 00:10:29,620
+NL: Am Morgen könne man Konflikte nämlich besser lösen, meint Larroque, auch aufgrund unseres zirkadianen Rhythmus.
+
+112
+00:10:30,020 --> 00:10:31,360
+HK: Ja, finde ich auch eine gute Idee.
+
+113
+00:10:31,500 --> 00:10:34,280
+HK: Und einen zirkadianen Rhythmus haben wir schließlich alle.
+
+114
+00:10:35,120 --> 00:10:41,960
+HK: Und er bestimmt zum Beispiel auch darüber, ob wir Eulen oder Lerchen sind, also früh oder spät ins Bett gehen.
+
+115
+00:10:42,320 --> 00:10:45,260
+NL: Genau, der Rhythmus ist durch unsere Genetik bestimmt.
+
+116
+00:10:45,700 --> 00:10:51,560
+NL: Die Wissenschaft kann also mittels einer Haarprobe sogar feststellen, ob jemand Eule oder Lerche ist.
+
+117
+00:10:52,160 --> 00:10:55,240
+NL: Wir haben alle unterschiedliche bevorzugte Einschlafzeiten.
+
+118
+00:10:56,080 --> 00:11:02,980
+NL: Und alles in einem Zeitfenster von 21 bis höchstens 1 Uhr ist auch erst mal ganz normal, sagt Ingo Fieze.
+
+119
+00:11:03,500 --> 00:11:07,120
+NL: Er leitet das Schlafmedizinische Zentrum an der Berliner Charité.
+
+120
+00:11:07,760 --> 00:11:12,440
+Ingo Fietze: Das ist in unseren Genen, das ist festgelegt, das ändert sich auch nicht wesentlich.
+
+121
+00:11:13,540 --> 00:11:16,540
+IF: Es gibt nur zwei Verschiebungen im Lebensalter.
+
+122
+00:11:17,340 --> 00:11:21,440
+IF: Das eine ist als Jugendlicher, sagen wir zwischen 13.
+
+123
+00:11:21,880 --> 00:11:22,700
+IF: und 19.
+
+124
+00:11:22,960 --> 00:11:28,540
+IF: Lebensjahr, werde ich automatisch eine Eule, gehe am liebsten zwischen 22 und 24 Uhr ins Bett.
+
+125
+00:11:29,660 --> 00:11:34,780
+IF: Und als Älterer, sage ich Ü55, verschiebt sich dieser Rhythmus wieder etwas nach vorn.
+
+126
+00:11:35,900 --> 00:11:41,900
+HK: Ja, und was ist dann, wenn ich gern viel später ins Bett gehe, also nicht zwischen 21 und 1 Uhr?
+
+127
+00:11:42,360 --> 00:11:49,960
+NL: Dann könnte es sein, dass eine Verschiebung nach vorne oder nach hinten von deinem zirkadianen Rhythmus vorliegt.
+
+128
+00:11:50,440 --> 00:11:56,400
+NL: Und dann spricht man von einer zirkadianen Schlafwachrhythmusstörung, wie auch nun 24 eine ist.
+
+129
+00:11:56,880 --> 00:12:10,220
+IF: Wenn junge Leute sagen, ich kann nur um zwei oder drei ins Bett, vorher geht das nicht, da kann ich gar nicht einschlafen, da gehen wir nicht mehr von einer Eule aus, sondern von einem verschobenen Schlafwachrhythmus.
+
+130
+00:12:10,700 --> 00:12:18,680
+NL: Es kann vorkommen, dass der innere Schlafwachrhythmus genetisch so beschaffen ist, dass ihre biologische Nacht immer erst um drei Uhr beginnt.
+
+131
+00:12:19,120 --> 00:12:33,940
+NL: Bei Jugendlichen, die oft das Problem haben, dass sie erst sehr spät ins Bett gehen, kommt es laut Vize allerdings viel häufiger vor, dass sie ihre Phase sozusagen selber weiter nach hinten verschieben, indem sie immer bis vier Uhr nachts vom Computer oder am Handy sitzen.
+
+132
+00:12:34,620 --> 00:12:44,720
+NL: Von einem verschobenen Schlafwachrhythmus sind auch oft Schicht- oder NachtarbeiterInnen betroffen, deren biologischer Schlafwachrhythmus ja aufgrund ihrer Arbeitszeiten ständig gestört wird.
+
+133
+00:12:45,400 --> 00:12:48,380
+NL: Für die wird dann die Nacht zum Tag und der Tag zur Nacht?
+
+134
+00:12:48,720 --> 00:12:59,040
+NL: Genau, man kann es vielleicht ein bisschen damit vergleichen, als hätte man ständig ein Jetlag und das ist dann gar nicht oder zumindest nur sehr schwer damit zu vereinbaren, tagsüber aktiv zu sein.
+
+135
+00:12:59,700 --> 00:13:03,840
+NL: Ingo Vietze hat ein Beispiel aus seiner eigenen Behandlungserfahrung genannt.
+
+136
+00:13:04,340 --> 00:13:12,800
+IF: Fördner hat 30 Jahre Nachtschicht gemacht, hat seinen Job verloren, ist zur deutschen Rente gegangen und die haben gesagt, suchen Sie einen neuen Job.
+
+137
+00:13:13,740 --> 00:13:18,880
+IF: Er hat keinen gefunden und die Rente hat empfohlen, müssen Sie halt einen Tagesschop nehmen.
+
+138
+00:13:19,560 --> 00:13:26,940
+IF: Hat er auch probiert, hat er nicht toleriert und kam dann zu uns und hat gesagt, Doktor, was machen wir jetzt?
+
+139
+00:13:27,480 --> 00:13:42,060
+IF: Und dann habe ich ihm tatsächlich einen Test geschrieben, dass er offensichtlich aus diesem Nachtmenschen wird kein Tagmensch mehr, weil das hat er einfach 30 Jahre gemacht und wenn die deutsche Rente da oder die Arbeitsvermittlung keinen Job für ihn findet,
+
+140
+00:13:42,220 --> 00:13:43,240
+IF: dann möchte er berentet werden.
+
+141
+00:13:43,760 --> 00:13:54,800
+NL: Wenn der eigene Körper einem anzeigt, um vier Uhr schlafen zu gehen, man aber gezwungen ist, um acht Uhr bei der Arbeit zu erscheinen, bekommt man logischerweise zu wenig Schlaf ab und dann auch eine Schlafstörung.
+
+142
+00:13:55,380 --> 00:14:06,220
+IF: Das Problem in der heutigen Zeit ist ja, dass wir immer noch zu wenig flexible Arbeitszeiten haben, dass Jugendliche, die eher eine spätere Bettzeit haben, immer noch früh um sieben oder acht in die Schule müssen.
+
+143
+00:14:06,440 --> 00:14:11,040
+NL: Aber nicht jede Schlafstörung ist dann gleich eine Störung des zirkadianen Rhythmus.
+
+144
+00:14:11,600 --> 00:14:17,720
+NL: Laut Ingo Vieze kommen solche Störungen, dann spricht man von einer Insomnie, sogar häufiger vor.
+
+145
+00:14:18,320 --> 00:14:22,480
+NL: Betroffene können schlecht einschlafen oder wachen häufig in der Nacht auf.
+
+146
+00:14:23,060 --> 00:14:31,080
+NL: Gründe können dann zum Beispiel auch seelische Krankheiten oder Schicksalsschläge oder auch einfach eine schlechte Schlafhygiene sein.
+
+147
+00:14:31,580 --> 00:14:34,340
+HK: Schlafhygiene, also was wäre eine gute Schlafhygiene?
+
+148
+00:14:34,940 --> 00:14:41,440
+NL: Gut wäre zum Beispiel auf Ruhe zu achten während des Schlafs und auch regelmäßige Einschlafzeiten zu haben.
+
+149
+00:14:42,260 --> 00:14:46,500
+HK: Und ab wann merkt man denn, dass man eine Schlafstörung hat?
+
+150
+00:14:46,680 --> 00:14:50,200
+HK: Ich meine hin und wieder schlecht einschlafen können, das kenne ich auch.
+
+151
+00:14:51,080 --> 00:14:54,460
+NL: Dafür hat Ingo Vieze eine relativ einfache Regel.
+
+152
+00:14:54,920 --> 00:15:08,680
+NL: Wer nämlich mindestens dreimal die Woche Probleme beim Durchschlafen oder Einschlafen hat und bei dem sich das innerhalb von vier bis zwölf Monaten nicht ändert, obwohl man eben auf seine Schlafhygiene achtet, der sollte sich Hilfe suchen.
+
+153
+00:15:08,980 --> 00:15:14,640
+NL: Ab so einem langen Zeitraum mit Schlafproblemen spricht man nämlich dann schon von einer chronischen Schlafstörung.
+
+154
+00:15:15,100 --> 00:15:23,820
+HK: Damit das nicht passiert, spreche ich jetzt mit Tobias Hürther, er ist Zeitwissenautor und hat das Buch geschrieben Du bist, was du schläfst.
+
+155
+00:15:24,340 --> 00:15:29,720
+HK: Er kennt einige wissenschaftlich fundierte Schlaftipps für alle ohne ausgewachsene Schlafstörung.
+
+156
+00:15:29,940 --> 00:15:30,660
+HK: Hallo Tobias.
+
+157
+00:15:31,060 --> 00:15:31,440
+Tobias Hürther: Hallo Hella.
+
+158
+00:15:32,240 --> 00:15:34,800
+HK: Tobias, wie hast du die letzte Nacht geschlafen?
+
+159
+00:15:35,940 --> 00:15:39,300
+TH: In mancher Hinsicht gut, also ich habe genug geschlafen, acht Stunden.
+
+160
+00:15:39,740 --> 00:15:43,200
+TH: Ich habe etwas leicht geschlafen, etwas wenig Tiefschlaf gehabt.
+
+161
+00:15:43,200 --> 00:15:46,220
+HK: Was meint das, wenn du sagst leicht geschlafen?
+
+162
+00:15:46,960 --> 00:16:06,140
+TH: Der Tiefschlaf ist meistens in der ersten, ersten Hälfte des Schlafs und da, also die Schlafphasen wechseln sich ja immer ab in diesen Zyklen und der Schwerpunkt in der ersten Hälfte des Schlaf liegt auf dem Tiefschlaf und der ist aus irgendeinem Grund,
+
+163
+00:16:06,200 --> 00:16:11,060
+TH: den ich nicht weiß, etwas zu kurz gekommen in der letzten Nacht, sagt mir die Aufzeichnung meiner Uhr.
+
+164
+00:16:11,720 --> 00:16:14,620
+HK: Worauf achtest du denn besonders, wenn du schlafen gehst?
+
+165
+00:16:15,440 --> 00:16:29,180
+TH: Auf die Regelmäßigkeit, also ich versuche wirklich zur immer gleichen Zeit ins Bett zu gehen und langsam in diesen Schlafmodus hinein zu gleiten, ähnliche Dinge zu tun zur ähnlichen Zeit.
+
+166
+00:16:30,020 --> 00:16:33,020
+HK: Und heißt es auch zur selben Zeit immer aufzuwachen?
+
+167
+00:16:33,500 --> 00:16:40,680
+TH: Das ergibt sich dann da möglichst daraus, das ist natürlich, geht nicht immer, je nachdem, wie der Tag so, was so ansteht, aber das gehört auch dazu.
+
+168
+00:16:41,120 --> 00:16:46,920
+HK: Kann man eigentlich vorschlafen oder nachschlafen, also Schlaf aufholen?
+
+169
+00:16:47,660 --> 00:16:51,060
+TH: Leider nicht, leider kann man nicht vorschlafen.
+
+170
+00:16:51,380 --> 00:16:56,180
+TH: Man kann nicht auf Vorrat schlafen, das fände ich ganz toll und praktisch, aber es geht leider nicht.
+
+171
+00:16:56,680 --> 00:17:05,160
+TH: Die Regenerationsprozesse müssen nach dem kommen, was uns belastet hat, deshalb kann man nicht vorschlafen, leider, leider.
+
+172
+00:17:05,760 --> 00:17:06,920
+HK: Aber man kann nachschlafen?
+
+173
+00:17:07,260 --> 00:17:21,600
+TH: Man kann das wieder reinholen bis zum gewissen Grad, hat dann aber natürlich eine Zeit im Schlafdefizit verbracht, die nicht so gesund ist, aber klar, also wenn man ein Schlafdefizit hat, kann man das dann aufholen, ja.
+
+174
+00:17:22,340 --> 00:17:30,300
+HK: Bei Paaren ist ja oft das Thema, schlafen wir lieber getrennt, also jeder für sich oder zu zweit, hast du da eine Meinung zu?
+
+175
+00:17:30,680 --> 00:17:53,340
+TH: Also Schlaf ist sehr individuell, ich glaube, ich habe eine Meinung für mich dazu, ich schlafe gerne zu zweit, obwohl es auch Nachteile hat, aber manche Leute sind da empfindlicher und es kann auch sinnvoll sein, getrennt zu schlafen, also wie bei vielen Fragen um den Schlaf ist die Antwort meistens individuell.
+
+176
+00:17:54,380 --> 00:18:07,880
+HK: Und du hast auch Kinder, ich weiß jetzt nicht, wie alt die sind, wie ist das bei kleineren Kindern, wie macht man das als Eltern richtig, dass die einen gesunden und guten Schlaf lernen?
+
+177
+00:18:08,320 --> 00:18:28,320
+TH: Also unser jüngstes Kind ist zehn und dann auch schon schlafmäßig aus dem gröbsten raus, aber es ist bekannt, anekdotisch weiß ich das und es ist auch durch Studien belegt, dass Eltern junger Kinder typischerweise ein extremes Schlafdefizit haben, das ist leider so.
+
+178
+00:18:29,460 --> 00:18:39,100
+TH: Also es gibt eine neue Studie, die sagt, dass das sechs Jahre lang dauern kann, bis Eltern wieder in ihren gesunden Schlafrhythmus zurückfinden.
+
+179
+00:18:40,440 --> 00:18:51,400
+TH: Also das erstmal ist das normal und wichtig ist, bei alledem gelassen zu bleiben, weil wenn man sich da noch zusätzlich stresst, das überträgt sich leicht aufs Kind.
+
+180
+00:18:51,860 --> 00:18:57,400
+TH: Weil du sagst Paare, ist es wirklich wichtig sich abzuwechseln, das nimmt unheimlich viel Druck raus.
+
+181
+00:18:58,040 --> 00:19:05,580
+TH: Es ist nämlich auch bekannt, dass immer noch die Mütter deutlich weniger schlafen als die Väter.
+
+182
+00:19:06,800 --> 00:19:08,020
+TH: Das kann ich bestätigen.
+
+183
+00:19:10,060 --> 00:19:14,600
+TH: Und es ist echt eine riesen Entlastung, wenn man sich da abwechselt.
+
+184
+00:19:14,840 --> 00:19:17,880
+HK: Meine Frage eben zielte aber auch noch mehr auf die Kinder ab.
+
+185
+00:19:18,340 --> 00:19:24,020
+HK: Also wie bringt man Kindern bei, dass sie gut einschlafen können, dass sie möglichst bald durchschlafen können?
+
+186
+00:19:24,640 --> 00:19:28,360
+HK: Ich habe meinem Kind immer gerne abends vorm Schlafengehen vorgelesen.
+
+187
+00:19:28,460 --> 00:19:31,680
+HK: Ich glaube, das ist anerkannt, dass das gut ist, oder?
+
+188
+00:19:32,120 --> 00:19:32,660
+TH: Ja, genau.
+
+189
+00:19:33,320 --> 00:19:33,840
+TH: Rituale.
+
+190
+00:19:34,520 --> 00:19:35,420
+TH: Rituale sind super.
+
+191
+00:19:35,600 --> 00:19:38,580
+TH: Also Schlaf hat ganz viel mit Regelmäßigkeit zu tun.
+
+192
+00:19:38,840 --> 00:19:47,820
+TH: Also wir können leider nicht auf Kommando einschlafen, also so wie wir auf Kommando essen können oder unsere Muskeln anspannen können.
+
+193
+00:19:48,560 --> 00:19:56,120
+TH: Aber wir können unser Gewohnheitsprogramm im Gehirn nutzen, um in den Schlaf zu finden.
+
+194
+00:19:56,620 --> 00:20:05,020
+HK: Kennst du aus deinem eigenen Leben Phasen, in denen plötzlich bei dir das Einschlafen oder auch das Durchschlafen wieder schwieriger geworden ist?
+
+195
+00:20:05,220 --> 00:20:05,940
+TH: Ja, ja.
+
+196
+00:20:06,280 --> 00:20:12,440
+TH: Also wenn man innerlich aufgewühlt ist, wenn einen irgendwas beschäftigt.
+
+197
+00:20:12,580 --> 00:20:18,820
+TH: Das ist oft auch so ein erster Hinweis, dass da irgendwas im Argen ist.
+
+198
+00:20:19,040 --> 00:20:21,900
+TH: Das merke ich am ehesten an meinem Schlaf.
+
+199
+00:20:22,140 --> 00:20:23,180
+HK: Und was machst du dann?
+
+200
+00:20:23,440 --> 00:20:25,560
+TH: Naja, ich überlege erstmal, woran könnte das liegen?
+
+201
+00:20:25,740 --> 00:20:27,960
+TH: Was treibt mich denn eigentlich um?
+
+202
+00:20:29,440 --> 00:20:32,860
+HK: Und wie wichtig sind äußere Faktoren?
+
+203
+00:20:33,100 --> 00:20:39,120
+HK: Also frische Luft, geöffnetes Fenster, nicht zu warm, Heizung runterdrehen, dunkel genug.
+
+204
+00:20:39,280 --> 00:20:40,360
+HK: Ist das wirklich so wichtig?
+
+205
+00:20:40,920 --> 00:20:41,740
+TH: Ja, das ist wichtig.
+
+206
+00:20:41,740 --> 00:20:44,860
+TH: Gut einschlafen zu können hat halt schlicht mit Hormonen zu tun.
+
+207
+00:20:45,740 --> 00:20:59,300
+TH: Und wenn man seinem Körper über helles oder sehr energiereiches Licht das Signal gibt, dass jetzt eigentlich heller Tag ist, dann kann man jetzt nicht erwarten, dass der leicht in den Schlaf findet.
+
+208
+00:20:59,500 --> 00:21:08,880
+TH: Das heißt also rechtzeitig die Beleuchtung ein bisschen dimmen, die bimmelnden Geräte ein bisschen weglegen und die Temperatur im Schlafzimmer absenken.
+
+209
+00:21:09,040 --> 00:21:14,420
+TH: Also die optimale Temperatur zum Schlafen ist alles natürlich untersucht, ist erstaunlich niedrig.
+
+210
+00:21:14,500 --> 00:21:15,420
+HK: Bei wie viel liegt die?
+
+211
+00:21:15,820 --> 00:21:18,000
+TH: Also die kann ruhig 15 Grad sein.
+
+212
+00:21:18,240 --> 00:21:23,400
+TH: Ich glaube sogar, das beste Intervall ist irgendwie zwischen 13 und 17 Grad.
+
+213
+00:21:23,520 --> 00:21:28,140
+TH: Das ist also deutlich unter der Temperatur, die wir normalerweise in unseren Wohnungen haben.
+
+214
+00:21:28,860 --> 00:21:34,620
+HK: Also ich habe das Fenster auch halb geöffnet und die Heizung runtergedreht, aber ich habe einen kleinen Tick.
+
+215
+00:21:34,780 --> 00:21:37,360
+HK: Ich schlafe unter drei Decken.
+
+216
+00:21:38,020 --> 00:21:38,840
+HK: Ist das schlecht?
+
+217
+00:21:38,940 --> 00:21:46,200
+TH: Es ist auch bekannt, dass eine dicke Decke, die sozusagen so ein bisschen Druck ausübt, sondern Geborgenheitsgefühl erzeugt, das dem Schlafen hilft.
+
+218
+00:21:46,800 --> 00:21:47,880
+TH: Das ist auch untersucht.
+
+219
+00:21:48,780 --> 00:21:53,520
+HK: Tobias, du bist ja auch ein großer Läufer und ich glaube auch Bergsteiger.
+
+220
+00:21:54,360 --> 00:22:00,360
+HK: Und verbringst du eigentlich auch Nächte draußen im Zelt oder sogar direkt unter freiem Himmel?
+
+221
+00:22:01,040 --> 00:22:04,340
+TH: Unter freiem Himmel schon länger nicht, aber ich verbringe gerne Nächte draußen.
+
+222
+00:22:05,080 --> 00:22:06,560
+HK: Was ist da besonders schön?
+
+223
+00:22:07,240 --> 00:22:20,220
+TH: Man schläft nicht unbedingt immer am besten, aber es ist einfach wunderbar, von dem Sonnenaufgang geweckt zu werden oder von den Vögeln und es ist herrlich.
+
+224
+00:22:20,760 --> 00:22:22,720
+TH: Also ich schlafe gerne in den Bergen.
+
+225
+00:22:22,840 --> 00:22:25,760
+HK: Tobias, vielen Dank für deine Tipps.
+
+226
+00:22:26,320 --> 00:22:31,560
+HK: Die sieben besten Einschlafhilfen, die beschreibst du in der aktuellen Ausgabe von Zeitwissen.
+
+227
+00:22:32,040 --> 00:22:35,280
+HK: In der startet auch unsere neue Serie über die Nacht.
+
+228
+00:22:35,480 --> 00:22:41,940
+HK: Wir erklären darin, warum der Mensch nachts anders denkt, anders fühlt und anders funktioniert.
+
+229
+00:22:46,740 --> 00:22:49,000
+HK: Was wir nicht erklären können.
+
+230
+00:22:53,080 --> 00:22:56,380
+HK: Die unmögliche Kolumne von Christoph Drösser.
+
+231
+00:23:00,800 --> 00:23:04,120
+Christoph Drösser: Heute, warum wandeln manche Menschen im Schlaf?
+
+232
+00:23:10,380 --> 00:23:17,540
+CD: Der Schlafwandler, der mit ausgestreckten Armen und geschlossenen Augen durch die Wohnung läuft, ist ein beliebtes Klischee im Comic.
+
+233
+00:23:18,060 --> 00:23:25,360
+CD: In der Realität verhalten sich Schlafwandler fast normal, allenfalls ihr Blick ist ein bisschen starr und ihre Bewegungen sind unsicher.
+
+234
+00:23:25,860 --> 00:23:28,380
+CD: Und wenn sie aufwachen, erinnern sie sich an nichts.
+
+235
+00:23:30,600 --> 00:23:31,580
+HK: Das Problem.
+
+236
+00:23:34,740 --> 00:23:38,640
+CD: Einerseits schlafen Schlafwandler, ihr Bewusstsein ist ausgeschaltet.
+
+237
+00:23:39,060 --> 00:23:41,580
+CD: Andererseits verhalten sie sich wie ein wacher Mensch.
+
+238
+00:23:42,100 --> 00:23:47,020
+CD: Wie kommt es zu diesem seltsamen Zwischenzustand, der auch Parasomnie genannt wird?
+
+239
+00:23:49,100 --> 00:23:50,460
+SL: Was wir schon wissen.
+
+240
+00:23:53,340 --> 00:23:59,480
+CD: Man kann das Schlafwandeln nicht gezielt hervorrufen, da ähnelt es körperlichen Phänomenen wie dem Schluck auf.
+
+241
+00:23:59,880 --> 00:24:02,880
+CD: Man kann es also zum Beispiel kaum im Schlaflabor untersuchen.
+
+242
+00:24:03,420 --> 00:24:09,140
+CD: Und weil sich die Schlafwandler später nicht an ihre nächtlichen Episoden erinnern, gibt es keine exakten Zahlen.
+
+243
+00:24:09,820 --> 00:24:19,340
+CD: Eine Überblickstudie schätzt, dass 5% aller Kinder und 1,5% aller Erwachsenen in den letzten zwölf Monaten eine Schlafwandel-Episode erlebt haben.
+
+244
+00:24:20,160 --> 00:24:25,080
+CD: Das Schlafwandeln tritt in der Tiefschlafphase auf, nicht im REM-Schlaf, in dem wir träumen.
+
+245
+00:24:25,660 --> 00:24:31,980
+CD: Die Episoden können bis zu einer halben Stunde andauern, die Betroffenen können teilweise komplexe Tätigkeiten ausführen.
+
+246
+00:24:32,620 --> 00:24:34,120
+CD: Viele machen sich etwas zu essen.
+
+247
+00:24:34,660 --> 00:24:42,020
+CD: Und ein amerikanischer Schlafwandler ist 23 Kilometer mit dem Auto gefahren zu seiner Schwiegermutter, die er dann umgebracht hat.
+
+248
+00:24:42,460 --> 00:24:45,980
+CD: Aber die meisten Schlafwandler stellen kein Risiko für Außenstehende dar.
+
+249
+00:24:46,580 --> 00:24:49,920
+CD: Und mit dem Vollmond hat das Schlafwandeln überhaupt nichts zu tun.
+
+250
+00:24:55,960 --> 00:25:00,060
+CD: Es gibt einige Faktoren, die das Schlafwandeln begünstigen.
+
+251
+00:25:00,560 --> 00:25:06,960
+CD: Das kinderhäufige Schlafwandeln als Erwachsene kann damit zu tun haben, dass ihr Gehirn noch nicht vollständig entwickelt ist.
+
+252
+00:25:07,380 --> 00:25:09,980
+CD: Es gibt einen eindeutigen genetischen Faktor.
+
+253
+00:25:10,380 --> 00:25:14,760
+CD: Kinder mit zwei schlafwandelnden Eltern sind dreimal so häufig betroffen wie andere.
+
+254
+00:25:15,460 --> 00:25:25,780
+CD: Psychische Krankheiten begünstigen das Schlafwandeln und bei Migränekranken und vom Tourette-Syndrom Betroffenen tritt es vier- bis sechsmal so häufig auf wie in der Gesamtbevölkerung.
+
+255
+00:25:26,520 --> 00:25:30,460
+CD: Schlafmangel und chronische Übermüdung scheinen das Phänomen zu begünstigen.
+
+256
+00:25:31,120 --> 00:25:34,300
+CD: Besonders Kinder schlafwandeln häufig dann, wenn sie Fieber haben.
+
+257
+00:25:34,840 --> 00:25:38,480
+CD: Und bei Frauen schwankt die Häufigkeit mit dem Menstruationszyklus.
+
+258
+00:25:39,320 --> 00:25:41,620
+CD: Das alles sind aber statistische Aussagen.
+
+259
+00:25:42,080 --> 00:25:48,520
+CD: Wie all diese Bedingungen tatsächlich im Gehirn wirken und den Aufwachmechanismus stören, kann die Wissenschaft nicht sagen.
+
+260
+00:25:48,940 --> 00:25:51,440
+CD: Klinische Studien zum Schlafwandeln gibt es nicht.
+
+261
+00:25:52,160 --> 00:25:54,460
+CD: Schlafwandeln ist aber auch nicht wirklich eine Krankheit.
+
+262
+00:25:54,840 --> 00:25:59,060
+CD: Die einzigen negativen Folgen sind Unfälle, die während der nächtlichen Ausflüge passieren.
+
+263
+00:25:59,820 --> 00:26:07,420
+CD: Wohl auch deshalb wird nicht sehr intensiv über das Phänomen geforscht und auch damit hat es zu tun, dass die Ursachen des Schlafwandels ungeklärt sind.
+
+264
+00:26:08,160 --> 00:26:14,000
+CD: Eine Sache noch, wenn Sie mit einem Schlafwandler zusammenleben, wecken Sie ihn oder sie nicht brutal auf.
+
+265
+00:26:14,260 --> 00:26:15,700
+CD: Das verwirrt die Betroffenen.
+
+266
+00:26:16,220 --> 00:26:20,100
+CD: Fassen Sie die Person behutsam an der Schulter und führen Sie sie zurück zum Bett.
+
+267
+00:26:20,520 --> 00:26:23,160
+CD: Dann schläft der Mensch meist problemlos wieder ein.
+
+268
+00:26:28,280 --> 00:26:33,540
+HK: In der aktuellen Zeitwissenausgabe möchte ich Ihnen gern noch zwei weitere Stücke zur Nacht empfehlen.
+
+269
+00:26:33,940 --> 00:26:38,780
+HK: Nils Böhing berichtet von seiner Expedition durch Europa in Dreinachtzügen.
+
+270
+00:26:39,400 --> 00:26:44,540
+HK: Und was mit Sicherheit bei schlechtem Einschlafen hilft, ist Winterbaden.
+
+271
+00:26:45,040 --> 00:26:49,440
+HK: Wer in zwei Grad kaltes Wasser taucht, ist abends garantiert müde.
+
+272
+00:26:50,460 --> 00:26:58,640
+HK: Eine kostenlose Probeausgabe des Zeitwissen Magazins erhalten Sie unter zeit.de slash wissen minus podcast.
+
+273
+00:26:59,320 --> 00:27:02,740
+HK: Und über Feedback und Ideen freuen wir uns.
+
+274
+00:27:03,020 --> 00:27:07,560
+HK: Schreiben Sie uns bitte an podcast at zeit minus wissen punkt.de.
+
+275
+00:27:07,760 --> 00:27:10,020
+HK: Ich bin Hella Kemper und wir hören uns bald wieder.
+
